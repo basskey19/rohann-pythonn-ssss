@@ -15,3 +15,11 @@ print("/nRepeating the string 1 and 1 two times :",text1*2,text2*2)
 print("n/Length of the string 1 and 2 :",len(text1),len(text2))
 
 print("/nPrinting Reverse of the string :",text1[::-1],text2[::-1])
+
+print("hello I am Jarvis ")
+name = input("what is your name ?  ")
+print(f"Hello{name},nice to meet you")
+if name.upper() == "Tony Stark":
+    print("Welcome back sir ,ready to see your inventions")
+else:
+    print("But Sorry sir I must restrict YOU")
