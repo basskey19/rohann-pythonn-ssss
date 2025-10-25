@@ -10,3 +10,4 @@ print(f"my hobbies are {hobbies}")
 print(f"my Skills are {skill}")
 print(f"my Date Of Birth is {DoB}")
 print(f"my Favourite Games are {name}")
+#use int for maths
